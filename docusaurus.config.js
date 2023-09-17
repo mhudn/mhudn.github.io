@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Mohammed Mohiuddin',
   tagline: '"Architecting DevOps Success, One Line of Code at a Time."',
-  favicon: 'img/devops.png',
+  favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://mhudn.com',
