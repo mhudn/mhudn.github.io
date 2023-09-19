@@ -69,7 +69,7 @@ const config = {
             label: 'Tutorials',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
-          //{to: '/blog/about', label: 'About', position: 'left'},
+          {to: '/blog/about', label: 'About', position: 'left'},
           {
             href: 'https://github.com/mhudn',
             label: 'GitHub',
