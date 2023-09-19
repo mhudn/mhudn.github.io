@@ -54,7 +54,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      //image: 'img/docusaurus-social-card.jpg',
+      image: 'img/devops-banner-concept.jpg',
       navbar: {
         title: 'Home',
         logo: {
@@ -69,6 +69,7 @@ const config = {
             label: 'Tutorials',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          //{to: '/blog/about', label: 'About', position: 'left'},
           {
             href: 'https://github.com/mhudn',
             label: 'GitHub',
